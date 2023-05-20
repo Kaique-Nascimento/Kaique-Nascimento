@@ -1,4 +1,4 @@
-<h1 align="center">Aôba 👋, Meu nome é Kaique Nacimento</h1>
+<h1 align="center">Aôba 👋, Meu nome é Kaique Nascimento</h1>
 <h3 align="center">Sou estudante sofrido de Etec no curso de Desenvolvimento de Sistemas e curioso pela área da Tecnologia!</h3>
 
 - 🔭 Estou trabalhando em meu TCC: [BDE - Biblioteca Digital para Estudantes](https://github.com/Kaique-Nascimento/BDE-TCC)
