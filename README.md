@@ -1,7 +1,7 @@
 <h1 align="center">Aôba 👋, Meu nome é Kaique Nascimento</h1>
 <h3 align="center">Sou estudante sofrido de Etec no curso de Desenvolvimento de Sistemas e curioso pela área da Tecnologia!</h3>
 
-- 💼 Atualmente, estou trabalhando em meu TCC: [BookVerse - Bibliteca Digital para Estudantes](https://github.com/Kaique-Nascimento/BookVerse-TCC)
+- 💼 Recentemente, concluí meu TCC sobre Bibliotecas Digitais. Dê uma olhada em: [BookVerse - Bibliteca Digital para Estudantes](https://github.com/Kaique-Nascimento/BookVerse-TCC)
 
 
 - 👨‍💻 Meus projetos estão disponíveis em: [https://github.com/Kaique-Nascimento](https://github.com/Kaique-Nascimento)
