@@ -4,7 +4,7 @@
  
 - 💼 Atualmente, estou fazendo um projeto de uma Landing Page da Cactwo! Confira em: [Cactwo - Videomakers](https://github.com/Kaique-Nascimento/cactwo)
 
-- ✔ Connfira meu TCC sobre Bibliotecas Digitais. Disponível em: [BookVerse - Bibliteca Digital para Estudantes](https://github.com/Kaique-Nascimento/BookVerse-TCC)
+- ✔ Confira meu TCC sobre Bibliotecas Digitais. Disponível em: [BookVerse - Bibliteca Digital para Estudantes](https://github.com/Kaique-Nascimento/BookVerse-TCC)
  
 - 👨‍💻 Meus projetos estão disponíveis em: [https://github.com/Kaique-Nascimento](https://github.com/Kaique-Nascimento)
 
