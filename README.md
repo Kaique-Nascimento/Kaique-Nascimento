@@ -1,7 +1,7 @@
 <h1 align="center">Aôba 👋, Meu nome é Kaique Nascimento</h1>
 <h3 align="center">Sou estudante sofrido de Etec no curso de Desenvolvimento de Sistemas e curioso pela área da Tecnologia!</h3>
 
-- 💼 Atualmente, estou fazendo um projeto de uma Landing Page da Cactwo!. Confira em: [Cactwo - Videomakers](https://github.com/Kaique-Nascimento/cactwo)
+- 💼 Atualmente, estou fazendo um projeto de uma Landing Page da Cactwo! Confira em: [Cactwo - Videomakers](https://github.com/Kaique-Nascimento/cactwo)
 
 - ✔ Connfira meu TCC sobre Bibliotecas Digitais. Disponível em: [BookVerse - Bibliteca Digital para Estudantes](https://github.com/Kaique-Nascimento/BookVerse-TCC)
  
