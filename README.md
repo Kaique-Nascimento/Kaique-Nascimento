@@ -10,7 +10,7 @@
 
 - 📫 Você pode me contatar em: **kaiquepalmanascimento@hotmail.com**
 
-- 📄 Atualmente sou: **Estudante de Etec**
+- 📄 Atualmente sou: **Desempregado em busca do primeiro emprego!**
 
 - ⚡ Curiosidades: **Acho que tenho bom humor, Gosto de aprender coisas novas e sou muito curioso**
 
