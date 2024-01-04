@@ -1,5 +1,7 @@
 <h1 align="center">Aôba 👋, Meu nome é Kaique Nascimento</h1>
 <h3 align="center">Sou formando ex-tudante sofrido de Etec no curso de Desenvolvimento de Sistemas e curioso pela área da Tecnologia!</h3>
+![Static Badge](https://img.shields.io/badge/HTML-html?style=for-the-badge&logo=HTML5&logoColor=black&labelColor=orange&color=orange)
+
 <ul> <li>(🖥Desenvolvimento de Sistemas)Etec Prof. Carmine Biagio Tundisi: 2021 - 2023 </li> 
 
 - ✔ Confira meu TCC sobre Bibliotecas Digitais. Disponível em: [BookVerse - Bibliteca Digital para Estudantes](https://github.com/Kaique-Nascimento/BookVerse-TCC)
