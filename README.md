@@ -1,6 +1,6 @@
 <h1 align="center">Aôba 👋, Meu nome é Kaique Nascimento</h1>
 <h3 align="center">Sou formando ex-tudante sofrido de Etec no curso de Desenvolvimento de Sistemas e curioso pela área da Tecnologia!</h3>
-<ul> <li>(Desenvolvimento de Sistemas)Etec Prof. Carmine Biagio Tundisi: 2021 - 2023 </li> </ul>
+<ul> <li>(🖥Desenvolvimento de Sistemas)Etec Prof. Carmine Biagio Tundisi: 2021 - 2023 </li> 
  
 - 💼 Atualmente, estou fazendo um projeto de uma Landing Page da Cactwo! Confira em: [Cactwo - Videomakers](https://github.com/Kaique-Nascimento/cactwo)
 
