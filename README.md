@@ -3,6 +3,7 @@
 
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=black)
+![Static Badge](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=black&color=%237952B3)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=for-the-badge&logo=Mysql&logoColor=black)
