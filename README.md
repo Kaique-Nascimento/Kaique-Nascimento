@@ -6,7 +6,8 @@
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=for-the-badge&logo=Mysql&logoColor=black)
-![Static Badge](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=sass&logoColor=black&labelColor=%23CC6699&color=%23CC6699)
+![Static Badge](https://img.shields.io/badge/-scss-%23CC6699?style=for-the-badge&logo=sass&logoColor=black&color=%23CC6699)
+
 
 
 <ul> <li>(🖥Desenvolvimento de Sistemas)Etec Prof. Carmine Biagio Tundisi: 2021 - 2023 </li> 
