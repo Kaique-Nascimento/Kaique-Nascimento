@@ -33,6 +33,6 @@
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaique-nascimento&show_icons=true&title_color=4826f2&locale=en&layout=compact" alt="kaique-nascimento" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaique-nascimento&show_icons=true&title_color=4826f2&locale=en" alt="kaique-nascimento" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaique-nascimento&show_icons=true&title_color=4826f2&locale=en" alt="kaique-nascimento" />
 
 
