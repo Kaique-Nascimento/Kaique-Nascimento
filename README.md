@@ -8,7 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=for-the-badge&logo=Mysql&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/-scss-%23CC6699?style=for-the-badge&logo=sass&logoColor=black&color=%23CC6699)
-Atualmente, estudando:
+<br>Atualmente, estudando:
 ![Static Badge](https://img.shields.io/badge/-React--Native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
