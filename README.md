@@ -31,8 +31,8 @@
 <a href=https://www.linkedin.com/in/kaique-nascimento-41171723a target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaique nascimento" height="30" width="40" /></a>
 </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaique-nascimento&show_icons=true&title_color=4826f2&locale=en&layout=compact" alt="kaique-nascimento" />|
-| :-: | :-: | :-:
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaique-nascimento&show_icons=true&title_color=4826f2&locale=en" alt="kaique-nascimento" />|
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaique-nascimento&show_icons=true&title_color=4826f2&locale=en&layout=compact" alt="kaique-nascimento" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaique-nascimento&show_icons=true&title_color=4826f2&locale=en" alt="kaique-nascimento" />
 
 
