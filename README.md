@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=for-the-badge&logo=Mysql&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/-scss-%23CC6699?style=for-the-badge&logo=sass&logoColor=black&color=%23CC6699)
 <br>Atualmente, estudando:
-![Static Badge](https://img.shields.io/badge/-React--Native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB),![Static Badge](https://img.shields.io/badge/Visual--Basic-%23512BD4?style=for-the-badge&logo=visualbasic)
+![Static Badge](https://img.shields.io/badge/-React--Native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Static Badge](https://img.shields.io/badge/Visual--Basic-%23512BD4?style=for-the-badge&logo=visualbasic)
 
 
 
