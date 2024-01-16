@@ -3,8 +3,8 @@
 
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=black)![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=black)![Static Badge](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=black&color=%237952B3)![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=black)![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=for-the-badge&logo=Mysql&logoColor=black)![Static Badge](https://img.shields.io/badge/-scss-%23CC6699?style=for-the-badge&logo=sass&logoColor=black&color=%23CC6699)
 <br>Atualmente, estudando:
-![Static Badge](https://img.shields.io/badge/-React--Native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Static Badge](https://img.shields.io/badge/Visual--Basic-%23512BD4?style=for-the-badge&logo=visualbasic)
-
+![Static Badge](https://img.shields.io/badge/Visual--Basic-%23512BD4?style=for-the-badge&logo=visualbasic)
+<!-- ![Static Badge](https://img.shields.io/badge/-React--Native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 
 <ul> <li>(🖥Desenvolvimento de Sistemas)Etec Prof. Carmine Biagio Tundisi: 2021 - 2023 </li> 
