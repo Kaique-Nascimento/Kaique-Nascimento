@@ -15,6 +15,7 @@
 
  
      <li> (🖥Cibersegurança) Faculdade Anhanguera: 2024 - Cursando</li>
+     <hr>
  
  - 💼 Atualmente, estou fazendo um projeto de uma Landing Page da Cactwo! Confira em: [Cactwo - Videomakers](https://github.com/Kaique-Nascimento/cactwo)
    
