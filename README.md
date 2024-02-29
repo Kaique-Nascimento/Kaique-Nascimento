@@ -6,7 +6,8 @@
 ![Static Badge](https://img.shields.io/badge/-React--Native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Static Badge](https://img.shields.io/badge/Visual--Basic-%23512BD4?style=for-the-badge&logo=visualbasic)
 -->
 
-<ul> <li>(🖥Desenvolvimento de Sistemas) Etec Prof. Carmine Biagio Tundisi: 2021 - 2023 </li> 
+<ul>      <li> (🖥Cibersegurança) Faculdade Anhanguera: 2024 - Cursando</li>
+<li>(🖥Desenvolvimento de Sistemas) Etec Prof. Carmine Biagio Tundisi: 2021 - 2023 </li> 
  
 
 - ✔ Confira meu TCC sobre Bibliotecas Digitais. Disponível em: [BookVerse - Bibliteca Digital para Estudantes](https://github.com/Kaique-Nascimento/BookVerse-TCC)
@@ -14,7 +15,6 @@
 
 
  
-     <li> (🖥Cibersegurança) Faculdade Anhanguera: 2024 - Cursando</li>
      <hr>
  
  - 💼 Atualmente, estou fazendo um projeto de uma Landing Page da Cactwo! Confira em: [Cactwo - Videomakers](https://github.com/Kaique-Nascimento/cactwo)
