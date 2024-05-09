@@ -21,9 +21,9 @@
    
 - 📫 Você pode me contatar em: **kaiquepalmanascimento@hotmail.com**
 
-- 📄 Atualmente sou: **Desempregado e em busca do primeiro emprego!**
+- 📄 Atualmente estou: **Trabalhando como Técnico em Impressoras! Mas, estudando para ingressar na carreira de T.I.**
 
-- ⚡ Curiosidades: **Acho que tenho bom humor, Gosto de aprender coisas novas e sou muito curioso**
+- ⚡ Curiosidades: **Creio que tenho bom humor, gosto de aprender coisas novas e sou muito curioso**
 
 <h3 align="center">Conecte-se comigo!</h3>
 <p align="center">
