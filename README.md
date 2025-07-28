@@ -21,9 +21,9 @@
    
 - 📫 Você pode me contatar em: **kaiquepalmanascimento@hotmail.com**
 
-- 📄 Atualmente estou: **Trabalhando como Técnico em Impressoras! Mas, estudando para ingressar na carreira de T.I.**
+- 📄 Atualmente estou: **Estudando e aplicando para vagas de emprego para ingressar na carreira de T.I.**
 
-- ⚡ Curiosidades: **Creio que tenho bom humor, gosto de aprender coisas novas e sou muito curioso**
+- ⚡ Curiosidades: **Tenho bom humor, gosto de aprender coisas novas e sei lamber o cotovelo**
 
 <h3 align="center">Conecte-se comigo!</h3>
 <p align="center">
