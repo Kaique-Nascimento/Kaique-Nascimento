@@ -23,7 +23,7 @@
 
 - 📄 Atualmente estou: **Estudando e aplicando para vagas de emprego para ingressar na carreira de T.I.**
 
-- ⚡ Curiosidades: **Tenho bom humor, gosto de aprender coisas novas e sei lamber o cotovelo**
+- ⚡ Curiosidades: **Tenho bom humor, gosto de aprender coisas novas e consigo lamber meu cotovelo**
 
 <h3 align="center">Conecte-se comigo!</h3>
 <p align="center">
